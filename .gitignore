@@ -1,5 +1,4 @@
 # ignore other non-project files
-*.csv
 *.pyc
 *.sh
 *.tmp
