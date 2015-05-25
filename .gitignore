@@ -1,0 +1,10 @@
+# ignore other non-project files
+*.csv
+*.pyc
+*.sh
+*.tmp
+*.png
+*.xlsx
+tmp*.*
+lfc.ipynb*/
+.ipynb_checkpoints/
