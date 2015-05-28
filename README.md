@@ -5,4 +5,4 @@ The seasons cover 11 years, from Rafael Benitez' first match of season 2004-05 i
 
 Many graphs are generated automatically from the munged data to help describe LFC's performance.
 
-See [Terry's blog about lfc](http://terrydolan.blogspot.com/2015/05/lfc-from-rafa-to-rogers-there-are-three.html) for more information.
+See [Terry's blog about lfc](http://terrydolan.blogspot.co.uk/2015/05/lfc-from-rafa-to-rogers.html) for more information.
